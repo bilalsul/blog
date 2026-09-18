@@ -10,9 +10,13 @@ You can send money through the following bank accounts.
 
 
 Bank: Dashen Bank
+
 Account No.: 2984311083511
+
 SWIFTCODE: DASHETAA
 
 Bank: Abyssinia Bank of Ethiopia
+
 Account No.: 129279858
+
 SWIFTCODE: ABYSETAA

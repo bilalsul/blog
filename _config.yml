@@ -12,7 +12,7 @@ plugins:
 
 # Build settings
 markdown: kramdown
-permalink: /jekyll/update/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
 header_pages:
   - about.md
